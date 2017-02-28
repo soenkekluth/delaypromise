@@ -1,0 +1,31 @@
+{
+  "name": "delaypromise",
+  "version": "1.0.0",
+  "description": "delay promise timeout",
+  "module": "index.js",
+  "main": "index.js",
+  "jsnext:main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/delaypromise.git"
+  },
+  "keywords": [
+    "delay",
+    "promise",
+    "setTimeout",
+    "timeout",
+    "wait"
+  ],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/delaypromise/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/delaypromise#readme",
+  "dependencies": {
+    "dom-helpers": "3.2.1"
+  }
+}
